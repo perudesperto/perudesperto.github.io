@@ -6,7 +6,7 @@ title: 'Venezolano balea a joven cantante en asalto y no puede ser atendido de e
 image: "/assets/images/pjievyaeg5aahgkh5gknngxwte2020-08-05.jpg"
 tags: 'venezolanos delincuencia '
 categories: []
-author: Erick
+author: sal
 beforetoc: ''
 toc: true
 
