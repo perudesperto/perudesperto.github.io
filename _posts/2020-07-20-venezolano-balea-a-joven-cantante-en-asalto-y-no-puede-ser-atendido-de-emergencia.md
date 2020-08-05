@@ -3,7 +3,7 @@ layout: post
 date: 2020-07-20 06:08:35 +0000
 rating: 4
 title: 'Venezolano balea a joven cantante en asalto y no puede ser atendido de emergencia '
-image: "/assets/images/mini9.jpg"
+image: "/assets/images/pjievyaeg5aahgkh5gknngxwte2020-08-05.jpg"
 tags: 'venezolanos delincuencia '
 categories: []
 author: sal
