@@ -7,7 +7,7 @@ layout: Un cantante de 28 años recibió un disparo tras un asalto en San Martí
   ganar dinero. La noche del último domingo, se encontraba de camino a la casa de
   una amiga, quien lo había contratado para ofrecer una serenata a su padre.
 date: 2020-07-20 06:08:35 +0000
-rating: 4.5
+rating: 4
 title: 'Venezolano balea a joven cantante en asalto y no puede ser atendido de emergencia '
 image: "/uploads/pjievyaeg5aahgkh5gknngxwte.jpg"
 tags: 'venezolanos delincuencia '
