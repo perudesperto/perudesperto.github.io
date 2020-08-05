@@ -40,3 +40,5 @@ fields:
 - type: boolean
   name: toc
   label: toc
+pages:
+- _posts/venezolano-balea-a-joven-cantante-en-asalto-y-no-puede-ser-atendido-de-emergencia.md
