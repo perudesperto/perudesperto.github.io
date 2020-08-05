@@ -17,6 +17,7 @@ fields:
 - type: file
   name: image
   label: image
+  default: ''
 - type: text
   name: tags
   label: tags
