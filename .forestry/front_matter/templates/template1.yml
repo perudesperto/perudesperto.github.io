@@ -28,6 +28,12 @@ fields:
     use_select: true
     source:
       type: simple
+    options:
+    - inmigracionmasiva
+    - peru
+    - deportes
+    - espectaculos
+    - politica
 - type: number
   name: rating
   label: rating
