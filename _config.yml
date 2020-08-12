@@ -32,8 +32,9 @@ authors:
     web: https://perudesperto.github.com/
     twitter: https://twitter.com/
     description: "This is the author box."
-  :
-    name: Rosa18
+
+  rosa18:
+    name: rosa18
     display_name: Rosa18
     gravatar: 'assets/images/pikachu.png'
     email: pikachu@gmail.com
