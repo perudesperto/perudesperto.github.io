@@ -24,6 +24,10 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
 - type: number
   name: rating
   label: rating
