@@ -12,7 +12,7 @@ author: rosa18
 beforetoc: ''
 
 ---
-## Abastecieron de licor y luces para evento realizado en una vivienda
+#### Abastecieron de licor y luces para evento realizado en una vivienda
 
 **La bulla que hacían dentro de una vivienda por el alto volúmen de la música terminó delatando su actividad clandestina con licor y comida que hicieron un grupo de extranjeros y peruanos al celebrar un cumpleaños en el cercado de Huancayo.**
 
