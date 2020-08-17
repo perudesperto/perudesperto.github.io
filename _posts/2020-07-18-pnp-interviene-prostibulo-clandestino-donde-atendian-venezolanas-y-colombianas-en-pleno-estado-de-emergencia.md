@@ -17,6 +17,10 @@ Las autoridades policiales intervinieron un prostíbulo clandestino que parecía
 
 Fuente:[https://www.youtube.com/watch?v=480fchvJet8](https://www.youtube.com/watch?v=480fchvJet8 "https://www.youtube.com/watch?v=480fchvJet8")
 
+[https://diariocorreo.pe/edicion/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/?ref=dcr](https://diariocorreo.pe/edicion/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/?ref=dcr "https://diariocorreo.pe/edicion/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/?ref=dcr")
+
+[https://peru21.pe/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/](https://peru21.pe/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/ "https://peru21.pe/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/")
+
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/jG6lu889BFE](https://www.youtube.com/embed/jG6lu889BFE "https://www.youtube.com/embed/jG6lu889BFE")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe id="lbry-iframe" width="560" height="315" src="[https://lbry.tv/](https://lbry.tv/ "https://lbry.tv/")$/embed/La-Victoria---PNP-interviene-prostíbulo-clandestino-que-operaba-en-pleno-estado-de-emergencia-480fchvJet8/7ff1c455e734117a04394e110f0f7edbe9668576" allowfullscreen></iframe>
