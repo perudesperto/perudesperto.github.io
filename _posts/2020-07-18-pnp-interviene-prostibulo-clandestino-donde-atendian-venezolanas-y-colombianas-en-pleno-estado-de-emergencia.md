@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-07-18 06:47:58 +0000
+date: 2020-07-18T06:47:58.000+00:00
 rating: 4.5
 toc: true
 title: "⛔ PNP interviene prostíbulo clandestino donde atendian venezolanas y colombianas
@@ -21,6 +21,10 @@ Fuente:[https://www.youtube.com/watch?v=480fchvJet8](https://www.youtube.com/wat
 
 [https://peru21.pe/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/](https://peru21.pe/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/ "https://peru21.pe/lima/la-victoria-pnp-interviene-prostibulo-clandestino-que-operaba-en-pleno-toque-de-queda-nndc-noticia/")
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/jG6lu889BFE](https://www.youtube.com/embed/jG6lu889BFE "https://www.youtube.com/embed/jG6lu889BFE")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jG6lu889BFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe id="lbry-iframe" width="560" height="315" src="[https://lbry.tv/](https://lbry.tv/ "https://lbry.tv/")$/embed/La-Victoria---PNP-interviene-prostíbulo-clandestino-que-operaba-en-pleno-estado-de-emergencia-480fchvJet8/7ff1c455e734117a04394e110f0f7edbe9668576" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe id="lbry-iframe" width="560" height="315" src="https://lbry.tv/$/embed/La-Victoria---PNP-interviene-prostíbulo-clandestino-que-operaba-en-pleno-estado-de-emergencia-480fchvJet8/7ff1c455e734117a04394e110f0f7edbe9668576" allowfullscreen></iframe>
+</div>
