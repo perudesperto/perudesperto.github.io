@@ -21,4 +21,7 @@ Todo estaba tranquilo hasta las 12:30 de la tarde, cuando de pronto aparecieron 
 
 Una de las hipótesis que maneja la Policía sobre este asesinato es que un hombre la habría estado pretendiendo a Vegas Correa, quien es casada, pero ante su rechazo la habría mandado a matar.
 
-Hasta el vivero también llegó el esposo de la infortunada, quien fue interrogado por los efectivos policiales.
+Hasta el vivero también llegó el esposo de la infortunada, quien fue interrogado por los efectivos policiales.  
+  
+  
+[https://diariocorreo.pe/edicion/la-libertad/la-libertad-joven-venezolana-es-asesinada-a-balazos-noticia/?ref=dcr](https://diariocorreo.pe/edicion/la-libertad/la-libertad-joven-venezolana-es-asesinada-a-balazos-noticia/?ref=dcr "https://diariocorreo.pe/edicion/la-libertad/la-libertad-joven-venezolana-es-asesinada-a-balazos-noticia/?ref=dcr")
